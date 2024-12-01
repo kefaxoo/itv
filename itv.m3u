@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Первый канал HD
+#EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/e0e/160_160_1/c5801ba442e21b7505ddeb037b420039.png",Первый канал HD
 http://194.143.148.28:8080/PerviyHD/index.m3u8
