@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Карусель Int
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png",Карусель Int
 http://stream02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1,НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
