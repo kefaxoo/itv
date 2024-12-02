@@ -1,17 +1,17 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.one/img/740.png",Карусель Int
 http://stream02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1,НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:-1,Первый Музыкальный Канал HD
+#EXTINF:-1,Первый музыкальный HD BY
 http://rtmp.one.by:1300
 #EXTINF:-1,Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1,FX
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1,viju TV1000
+#EXTINF:-1,Viju TV1000
 http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1,viju TV1000 Русское
+#EXTINF:-1,Viju TV1000 Русское
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Дом кино
 https://stream01.vnet.am/DomKino/mono.m3u8
@@ -21,7 +21,7 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1,Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1,НТВ +1
+#EXTINF:-1 tvg-id="162" tvg-shift=1,НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1,НТВ +2
 https://cdn.ntv.ru/ntv2/playlist.m3u8
@@ -45,7 +45,7 @@ https://player.smotrim.ru/iframe/stream/live_id/4941
 https://player.smotrim.ru/iframe/stream/live_id/63253
 #EXTINF:-1,Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
-#EXTINF:-1,СТС Kids
+#EXTINF:-1 tvg-id="2481",СТС Kids
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1,Суббота!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
@@ -53,7 +53,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 http://109.233.89.170/Disney_Channel/mono.m3u8
 #EXTINF:-1,Disney XD Poland
 http://178.219.128.68:64888/DISNXD
-#EXTINF:-1,Перец Int
+#EXTINF:-1,Перец International
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1,Беларусь 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -63,5 +63,5 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1,Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1,Euronews
+#EXTINF:-1,Euronews Россия
 https://www.youtube.com/euronewsru/live
