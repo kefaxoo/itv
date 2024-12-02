@@ -1,3 +1,67 @@
 #EXTM3U
 #EXTINF:-1,Карусель Int
 http://stream02.vnet.am/Karusel/mono.m3u8
+#EXTINF:-1,НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:-1,Первый Музыкальный Канал HD
+http://rtmp.one.by:1300
+#EXTINF:-1,Amedia Premium HD
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1,FX
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1,viju TV1000
+http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1,viju TV1000 Русское
+http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Дом кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1,Муз ТВ
+http://stream01.vnet.am/MuzTv/mono.m3u8
+#EXTINF:-1,Мульт HD
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1,НТВ +1
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1,НТВ +2
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1,НТВ +4
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1,НТВ +7
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1,НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1,НТВ Стиль
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1,Первый Канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,Пятница! International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1,Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1,Planeta RTR Europa
+https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1,Россия РТР СНГ
+https://player.smotrim.ru/iframe/stream/live_id/63253
+#EXTINF:-1,Солнце
+http://tv.mediacdn.ru/live/disney/playlist.m3u8
+#EXTINF:-1,СТС Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+#EXTINF:-1,Суббота!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1,Disney Channel HD Poland
+http://109.233.89.170/Disney_Channel/mono.m3u8
+#EXTINF:-1,Disney XD Poland
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1,Перец Int
+http://stream01.vnet.am/Perec/mono.m3u8
+#EXTINF:-1,Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1,Беларусь 2 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1,ОНТ HD
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1,Россия 1 HD
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1,Euronews
+https://www.youtube.com/euronewsru/live
