@@ -1,67 +1,67 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.one/img/740.png",Карусель Int
 http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:-1,НТВ Мир
+#EXTINF:-1 tvg-logo="http://epg.one/img/7258.png",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:-1,Первый музыкальный HD BY
+#EXTINF:-1 tvg-logo="http://epg.one/img/5365.png",Первый музыкальный HD BY
 http://rtmp.one.by:1300
-#EXTINF:-1,Amedia Premium HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/1372.png",Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="http://epg.one/img/1031.png",FX
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1,Viju TV1000
+#EXTINF:-1 tvg-logo="http://epg.one/img/127.png",Viju TV1000
 http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viju TV1000 Русское
+#EXTINF:-1 tvg-logo="http://epg.one/img/267.png",Viju TV1000 Русское
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Дом кино
+#EXTINF:-1 tvg-id="834" tvg-logo="http://epg.one/img/834.png",Дом кино
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1,Кинопремьера HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/566.png",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1,Муз ТВ
+#EXTINF:-1 tvg-logo="http://epg.one/img/897.png",Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
-#EXTINF:-1,Мульт HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/1332.png",Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1 tvg-id="162" tvg-shift=1,НТВ +1
+#EXTINF:-1 tvg-id="162" tvg-shift=1 tvg-logo="http://epg.one/img/162.png",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1,НТВ +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/162.png",НТВ +2
 https://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1,НТВ +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/162.png",НТВ +4
 https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1,НТВ +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/162.png",НТВ +7
 https://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:-1,НТВ HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1,НТВ Стиль
+#EXTINF:-1 tvg-logo="http://epg.one/img/1755.png",НТВ Стиль
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1,Первый Канал
+#EXTINF:-1 tvg-id="146" tvg-logo="http://epg.one/img/146.png",Первый Канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Пятница! International
 https://stream01.vnet.am/Pyatnica/mono.m3u8
-#EXTINF:-1,Россия РТР
+#EXTINF:-1 tvg-logo="http://epg.one/img/2547.png",Россия РТР
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1,Planeta RTR Europa
 https://player.smotrim.ru/iframe/stream/live_id/4941
-#EXTINF:-1,Россия РТР СНГ
+#EXTINF:-1 tvg-logo="http://epg.one/img/2547.png",Россия РТР СНГ
 https://player.smotrim.ru/iframe/stream/live_id/63253
-#EXTINF:-1,Солнце
+#EXTINF:-1 tvg-logo="http://epg.one/img/7669.png",Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
-#EXTINF:-1 tvg-id="2481",СТС Kids
+#EXTINF:-1 tvg-id="2481" tvg-logo="http://epg.one/img/2481.png",СТС Kids
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
-#EXTINF:-1,Суббота!
+#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png",Суббота!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1,Disney Channel HD Poland
 http://109.233.89.170/Disney_Channel/mono.m3u8
 #EXTINF:-1,Disney XD Poland
 http://178.219.128.68:64888/DISNXD
-#EXTINF:-1,Перец International
+#EXTINF:-1 tvg-logo="http://epg.one/img/5651.png",Перец International
 http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:-1,Беларусь 1
+#EXTINF:-1 tvg-logo="http://epg.one/img/2538.png",Беларусь 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1,Беларусь 2 HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2539.png",Беларусь 2 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-#EXTINF:-1,ОНТ HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2545.png",ОНТ HD
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1,Россия 1 HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/984.png",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1,Euronews Россия
+#EXTINF:-1 tvg-logo="http://epg.one/img/2266.png",Euronews Россия
 https://www.youtube.com/euronewsru/live
