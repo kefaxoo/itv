@@ -91,13 +91,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="162" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Россия" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",НТВ +7
+#EXTINF:-1 group-title="Россия | Смещение по времени" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",НТВ +7
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="18" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Рен ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Россия" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Рен ТВ +7
+#EXTINF:-1 group-title="Россия | Смещение по времени" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Рен ТВ +7
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Домашний
@@ -109,7 +109,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Россия" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Мир
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Россия" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Мир +7
+#EXTINF:-1 group-title="Россия | Смещение по времени" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Мир +7
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Карусель +7
@@ -133,7 +133,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 tvg-id="353" group-title="Россия" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Россия" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",ТНТ +7
+#EXTINF:-1 group-title="Россия | Смещение по времени" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",ТНТ +7
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",ТНТ4
@@ -176,53 +176,53 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music HD
 https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="1",Россия 1 HD +1
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="1",Россия 1 HD +1
 https://livetv.mylifeisgood.net.ru/channels/russia1-1.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="2",Россия 1 HD +2
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="2",Россия 1 HD +2
 https://livetv.mylifeisgood.net.ru/channels/russia1-2.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="3",Россия 1 HD +3
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="3",Россия 1 HD +3
 https://livetv.mylifeisgood.net.ru/channels/russia1-3.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="4",Россия 1 HD +4
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="4",Россия 1 HD +4
 https://livetv.mylifeisgood.net.ru/channels/russia1-4.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="5",Россия 1 HD +5
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="5",Россия 1 HD +5
 https://livetv.mylifeisgood.net.ru/channels/russia1-5.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="6",Россия 1 HD +6
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="6",Россия 1 HD +6
 https://livetv.mylifeisgood.net.ru/channels/russia1-6.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="7",Россия 1 HD +7
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="7",Россия 1 HD +7
 https://livetv.mylifeisgood.net.ru/channels/russia1-7.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="8",Россия 1 HD +8
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="8",Россия 1 HD +8
 https://livetv.mylifeisgood.net.ru/channels/russia1-8.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="9",Россия 1 HD +9
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="9",Россия 1 HD +9
 https://livetv.mylifeisgood.net.ru/channels/russia1-9.m3u8
-#EXTINF:-1 group-title="Россия",Домашний +2
+#EXTINF:-1 group-title="Развлекательные",Домашний +2
 https://livetv.mylifeisgood.net.ru/channels_shift/domashniiplus2.m3u8
-#EXTINF:-1 group-title="Россия",Домашний +4
+#EXTINF:-1 group-title="Развлекательные",Домашний +4
 https://livetv.mylifeisgood.net.ru/channels_shift/domashniiplus4.m3u8
-#EXTINF:-1 group-title="Россия",Домашний +7
+#EXTINF:-1 group-title="Развлекательные",Домашний +7
 https://livetv.mylifeisgood.net.ru/channels_shift/domashniiplus7.m3u8
-#EXTINF:-1 group-title="Россия",СТС +2
+#EXTINF:-1 group-title="Россия | Смещение по времени",СТС +2
 https://livetv.mylifeisgood.net.ru/channels_shift/stsplus2.m3u8
-#EXTINF:-1 group-title="Россия",СТС +4
+#EXTINF:-1 group-title="Россия | Смещение по времени",СТС +4
 https://livetv.mylifeisgood.net.ru/channels_shift/stsplus4.m3u8
-#EXTINF:-1 group-title="Россия",СТС +7
+#EXTINF:-1 group-title="Россия | Смещение по времени",СТС +7
 https://livetv.mylifeisgood.net.ru/channels_shift/stsplus7.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="162" tvg-shift="1",НТВ HD +1
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="162" tvg-shift="1",НТВ HD +1
 https://livetv.mylifeisgood.net.ru/channels_shift/ntvplus1.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="162" tvg-shift="2",НТВ HD +2
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="162" tvg-shift="2",НТВ HD +2
 https://livetv.mylifeisgood.net.ru/channels_shift/ntvplus2.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="162" tvg-shift="4",НТВ HD +4
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="162" tvg-shift="4",НТВ HD +4
 https://livetv.mylifeisgood.net.ru/channels_shift/ntvplus4.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="353" tvg-shift="2",ТНТ HD +2
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="353" tvg-shift="2",ТНТ HD +2
 https://livetv.mylifeisgood.net.ru/channels_shift/tntplus2.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="353" tvg-shift="4",ТНТ HD +4
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="353" tvg-shift="4",ТНТ HD +4
 https://livetv.mylifeisgood.net.ru/channels_shift/tntplus4.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="353" tvg-shift="7",ТНТ HD +7
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="353" tvg-shift="7",ТНТ HD +7
 https://livetv.mylifeisgood.net.ru/channels_shift/tntplus7.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="1003" tvg-shift="2",Пятница HD +2
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="1003" tvg-shift="2",Пятница HD +2
 https://livetv.mylifeisgood.net.ru/channels_shift/pyatnica2.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="1003" tvg-shift="4",Пятница HD +4
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="1003" tvg-shift="4",Пятница HD +4
 https://livetv.mylifeisgood.net.ru/channels_shift/pyatnica4.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="1003" tvg-shift="7",Пятница HD +7
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="1003" tvg-shift="7",Пятница HD +7
 https://livetv.mylifeisgood.net.ru/channels_shift/pyatnica7.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="1011",viju+ Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
@@ -580,23 +580,23 @@ http://178.219.128.68:64888/CANASERIHD
 http://109.233.89.166/Polsat_Seriale_HD/mono.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://w7.pngwing.com/pngs/393/802/png-transparent-bbc-news-online-logo-of-the-bbc-hbo-logo-television-text-rectangle-thumbnail.png",BBC News
 http://109.233.89.166/BBC_World_News/mono.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="1",Россия 1 HD +1
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="1",Россия 1 HD +1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="2",Россия 1 HD +2
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="2",Россия 1 HD +2
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="3",Россия 1 HD +3
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="3",Россия 1 HD +3
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="4",Россия 1 HD +4
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="4",Россия 1 HD +4
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="5",Россия 1 HD +5
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="5",Россия 1 HD +5
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="6",Россия 1 HD +6
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="6",Россия 1 HD +6
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="7",Россия 1 HD +7
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="7",Россия 1 HD +7
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="8",Россия 1 HD +8
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="8",Россия 1 HD +8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="711" tvg-shift="9",Россия 1 HD +9
+#EXTINF:-1 group-title="Россия | Смещение по времени" tvg-id="711" tvg-shift="9",Россия 1 HD +9
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Россия",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
